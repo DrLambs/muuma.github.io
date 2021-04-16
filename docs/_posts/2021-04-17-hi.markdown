@@ -1,0 +1,14 @@
+---
+layout: doc
+title: 'Hi!'
+date: 2021-04-17 01:48:47 +0800
+categories: docs
+---
+
+# test
+
+This is a test text.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
